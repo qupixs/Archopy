@@ -7,6 +7,10 @@
 
 Archopy lets you place a clock, photo cards and a compact Spotify player over your wallpaper. Each piece can be moved independently. Settings live in the Windows notification area so your layout stays visible after you close the customiser.
 
+**Examples**:<br><br>
+<img src="https://media.discordapp.net/attachments/1556009488262103190/1575519868835471531/Capture_decran_2026-11-26_142515.png?ex=6b0994b8&is=6b084338&hm=4409b6a59cd5f952d8c1e1d834964f78b407a3ffadb1adfa6e4737b158fe5a73&format=webp&quality=lossless&width=1536&height=884">
+<img src="https://media.discordapp.net/attachments/1556009488262103190/1575519868067778670/Capture_decran_2026-11-26_045226.png?ex=6b0994b8&is=6b084338&hm=ca4f89403c6852073f9f7d26ad870f2b0bae6414ef8bcffaeba089c762f1ec7a&format=webp&quality=lossless&width=1536&height=860">
+
 <h2 id="install">Install</h2>
 
 1. Open <strong>Releases</strong> on this repository and download <code>Archopy-Setup-x64.exe</code> from a published release. If Archopy is already running, choose <strong>Exit Archopy</strong> from its notification icon before updating.
