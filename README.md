@@ -3,6 +3,8 @@
 
 <h2>About</h2>
 
+**Known Issue**: Windows flags .EXE, this is only due to unknown publisher, not antivirus.
+
 Archopy lets you place a clock, photo cards and a compact Spotify player over your wallpaper. Each piece can be moved independently. Settings live in the Windows notification area so your layout stays visible after you close the customiser.
 
 <h2 id="install">Install</h2>
