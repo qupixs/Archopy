@@ -4,6 +4,8 @@
 <h2>About</h2>
 
 **Known Issue**: Windows flags .EXE, this is only due to unknown publisher, not antivirus.
+Archopy is not registered to a legal business, therefore the spotify does not have quota mode, which may impact the ability to display songs and lyrics.
+Beta testers can have their spotify added to our whitelist to bypass this until ready.
 
 Archopy lets you place a clock, photo cards and a compact Spotify player over your wallpaper. Each piece can be moved independently. Settings live in the Windows notification area so your layout stays visible after you close the customiser.
 
